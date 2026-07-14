@@ -46,6 +46,11 @@ right={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="players"
+2d_physics/layer_5="walls"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
