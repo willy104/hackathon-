@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://bf3rcwt640jjb"]
+
+[ext_resource type="Texture2D" uid="uid://dlypj4sgpjool" path="res://icon.svg" id="1_4flbx"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_onrkg"]
+
+[node name="Player" type="CharacterBody2D" unique_id=306408908]
+texture_filter = 1
+position = Vector2(251, 140)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=26860639]
+texture_filter = 1
+shape = SubResource("CircleShape2D_onrkg")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=356104669]
+texture_filter = 1
+position = Vector2(-0.99999994, -2.3841858e-07)
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=88993910]
+position = Vector2(-3.5, 5)
+texture = ExtResource("1_4flbx")
