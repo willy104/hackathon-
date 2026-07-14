@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://xsgqw5lk44xa"
-path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png-5b7532815689db57c1e70431bee77076.ctex"
+uid="uid://dvr2bdvjels7c"
+path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Deep Well.png-a7ddd0b93e05ab184aa653ff90281d51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://house/house1/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png"
-dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png-5b7532815689db57c1e70431bee77076.ctex"]
+source_file="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Deep Well.png"
+dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Deep Well.png-a7ddd0b93e05ab184aa653ff90281d51.ctex"]
 
 [params]
 

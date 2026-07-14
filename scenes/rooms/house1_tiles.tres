@@ -1,10 +1,10 @@
 [gd_resource type="TileSet" format=3 uid="uid://cqf2c8006gngg"]
 
-[ext_resource type="Texture2D" uid="uid://xsgqw5lk44xa" path="res://house/house1/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png" id="1_5b3dw"]
-[ext_resource type="Texture2D" uid="uid://consfyvjonq3t" path="res://house/house1/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Day).png" id="2_8xdyi"]
-[ext_resource type="Texture2D" uid="uid://dr5ql76dc8r03" path="res://house/house1/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png" id="4_b3hnw"]
-[ext_resource type="Texture2D" uid="uid://dvr2bdvjels7c" path="res://house/house1/PC _ Computer - Omori - Tilesets - Deep Well.png" id="5_eugmu"]
-[ext_resource type="Texture2D" uid="uid://cvcub73inoksy" path="res://house/house1/PC _ Computer - Omori - Tilesets - Last Resort.png" id="8_yi4iw"]
+[ext_resource type="Texture2D" uid="uid://xsgqw5lk44xa" path="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png" id="1_5b3dw"]
+[ext_resource type="Texture2D" uid="uid://consfyvjonq3t" path="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Day).png" id="2_8xdyi"]
+[ext_resource type="Texture2D" uid="uid://dr5ql76dc8r03" path="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png" id="4_b3hnw"]
+[ext_resource type="Texture2D" uid="uid://dvr2bdvjels7c" path="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Deep Well.png" id="5_eugmu"]
+[ext_resource type="Texture2D" uid="uid://cvcub73inoksy" path="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Last Resort.png" id="8_yi4iw"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_qt2jp"]
 texture = ExtResource("2_8xdyi")

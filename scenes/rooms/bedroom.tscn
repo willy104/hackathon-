@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://b2y4ncyhwybek"]
 
-[ext_resource type="TileSet" uid="uid://cqf2c8006gngg" path="res://house/house1/house1_tiles.tres" id="1_e5dlg"]
+[ext_resource type="TileSet" uid="uid://cqf2c8006gngg" path="res://scenes/rooms/house1_tiles.tres" id="1_e5dlg"]
 
 [node name="Bedroom" type="Node2D" unique_id=1519727678]
 

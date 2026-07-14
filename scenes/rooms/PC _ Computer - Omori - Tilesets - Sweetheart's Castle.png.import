@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dvr2bdvjels7c"
-path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Deep Well.png-f2d6a265c69c0b7a69cf16712e4693de.ctex"
+uid="uid://dr5ql76dc8r03"
+path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png-47ca925c25189a0d9fde9aabf87306dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://house/house1/PC _ Computer - Omori - Tilesets - Deep Well.png"
-dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Deep Well.png-f2d6a265c69c0b7a69cf16712e4693de.ctex"]
+source_file="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png"
+dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png-47ca925c25189a0d9fde9aabf87306dc.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dr5ql76dc8r03"
-path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png-fbb0526a9022ab5a170d85241f8f594e.ctex"
+uid="uid://xsgqw5lk44xa"
+path="res://.godot/imported/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png-01bbd322fac22e827f2f9d254ccf27d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://house/house1/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png"
-dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Sweetheart's Castle.png-fbb0526a9022ab5a170d85241f8f594e.ctex"]
+source_file="res://scenes/rooms/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png"
+dest_files=["res://.godot/imported/PC _ Computer - Omori - Tilesets - Faraway Town Interior Homes (Sunset).png-01bbd322fac22e827f2f9d254ccf27d9.ctex"]
 
 [params]
 
