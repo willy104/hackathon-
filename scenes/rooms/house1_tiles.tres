@@ -21777,6 +21777,25 @@ texture = ExtResource("4_b3hnw")
 125:127/0 = 0
 126:127/0 = 0
 127:127/0 = 0
+69:56/0 = 0
+68:55/0 = 0
+67:54/0 = 0
+66:53/0 = 0
+65:52/0 = 0
+64:51/0 = 0
+63:50/0 = 0
+62:50/0 = 0
+60:48/0 = 0
+59:47/0 = 0
+57:45/0 = 0
+56:44/0 = 0
+57:44/0 = 0
+59:45/0 = 0
+60:46/0 = 0
+61:46/0 = 0
+62:47/0 = 0
+64:49/0 = 0
+65:49/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_iiexv"]
 texture = ExtResource("5_eugmu")
@@ -27129,6 +27148,7 @@ texture = ExtResource("5_eugmu")
 41:127/0 = 0
 42:127/0 = 0
 43:127/0 = 0
+32:127/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_fnohd"]
 texture = ExtResource("8_yi4iw")
